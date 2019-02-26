@@ -1,0 +1,7 @@
+# Files
+
+# Folders
+bin/
+.vscode/
+.clang-format
+*.sh
